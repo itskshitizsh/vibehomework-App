@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VIBE</string>
+    <string name="check_internet_connectivity">Check Internet Connectivity!</string>
+    <string name="try_again">Try Again</string>
+</resources>
